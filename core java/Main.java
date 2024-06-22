@@ -1,6 +1,10 @@
 public class Main
 {
-    public static void main(String[] args) {
-        System.out.println("Helo Hitanshi");
+    public static void main(String[] args)
+    {
+        System.out.println("hello hitt");
+        System.out.println("hello divya");
     }
+
+
 }
